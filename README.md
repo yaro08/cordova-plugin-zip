@@ -29,6 +29,9 @@ file size of the zip file.
 
 ## Release Notes
 
+### 3.1.1 (Nov 29, 2021)
+* Fix a Zip Path Traversal Vulnerability (https://support.google.com/faqs/answer/9294009)
+
 ### 3.1.0 (Feb 23, 2016)
 * Updated SSZipArchive (ios lib) to 1.1
 
